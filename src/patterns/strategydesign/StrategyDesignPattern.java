@@ -1,7 +1,6 @@
 package patterns.strategydesign;
 
 /**
- * Created by abhishekbarla on 10/27/16.
  * Class to demonstrate the strategy design pattern
  */
 public class StrategyDesignPattern {

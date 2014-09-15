@@ -1,7 +1,7 @@
 package patterns.strategydesign;
 
 /**
- * Created by abhishekbarla on 10/28/16.
+ * CantFly class
  */
 public class CantFly implements FlyingAbility {
 

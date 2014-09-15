@@ -1,7 +1,7 @@
 package patterns.strategydesign;
 
 /**
- * Created by abhishekbarla on 10/27/16.
+ * Animal class
  */
 public class Animal {
 
